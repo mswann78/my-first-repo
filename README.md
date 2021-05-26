@@ -1,30 +1,23 @@
-# This is a large heading
+# Melissa Swann
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Firestone, Colorado, which is just outside of Boulder. 
 
-- This is
-- an unordered
-- list
+## Favorite Authors
 
-1. This is
-2. an ordered
-3. list
+My favorite authors include:
 
-Here is `some code` in the middle of a sentence.
+- Carl Hiassen
+- Lee Child
 
-```
-This is
-a block
-of code
-```
+My favorite things to do, in order of preference:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Read
+2. Ride my motorcycle
+3. Garden
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+## Contact
 
-nano README.md
+I can be contacted via [email](melissaswann@gmail.com).
+
